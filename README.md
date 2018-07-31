@@ -1,7 +1,7 @@
 # MMA and GCMMA
 *A self-contained C++ implementation of MMA and GCMMA.*
 
-[![Build Status](https://travis-ci.com/jdumas/mma.svg?token=euzAY1sxC114E8ufzcZx&branch=master)](https://travis-ci.com/jdumas/mma)
+[![Build Status](https://travis-ci.org/jdumas/mma.svg?branch=master)](https://travis-ci.org/jdumas/mma)
 
 This repository contains single-file C++ implementations of MMA and GCMMA, as described in [1,2,3].
 The code in this repository is based on an original code by Niels Aage, using the subproblem solver described in [4].
