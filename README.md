@@ -19,7 +19,7 @@ Usage should be fairly obvious looking at the header files, but you can also tak
 ## Other Projects
 
 - [TopOpt_in_PETSc](https://github.com/topopt/TopOpt_in_PETSc): Multi-processor implementation of MMA using MPI and PETCs.
-- [NLopt](https://nlopt.readthedocs.io/en/latest/): Open-source library for nonlinear optimization with various bindings in different languages. Contains a different implementation of GCMMA.
+- [NLopt](https://nlopt.readthedocs.io/en/latest/): Open-source library for nonlinear optimization with bindings in different languages. Contains a different implementation of GCMMA.
 
 ## References
 
